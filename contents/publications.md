@@ -1,12 +1,11 @@
-- <strong>Che, H</strong>, Wang .J (2024). A two-timescale duplex neurodynamic approach to biconvex optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>30(8), 2503-2514.[[Code]](https://github.com/senli1073/LNRL)
+- <strong>Che,H</strong>，Wang,J (2019). A two-timescale duplex neurodynamic approach to biconvex optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>30(8), 2503-2514.[[Paper]](https://ieeexplore.ieee.org/document/8594585)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Che,H</strong>，Wang,J (2021). A two-timescale duplex neurodynamic approach to mixed-integer optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>32(1), 36-48.</strong>(ESI 高被引论文)</strong>[[Paper]](https://ieeexplore.ieee.org/document/9023556)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Che,H</strong>，Wang,J (2023). Bicriteria Sparse Nonnegative Matrix Factorization via Two-timescale Duplex Neurodynamic Optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>, 34(8), 4881 - 4891.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>Che, H<strong>,Pan, B., Leung, M., Cao, Y., Yan, Z. (2023).Tensor Factorization with Sparse and Graph Regularization for Fake News Detection on Social Networks. <strong>IEEE Transactions on Computational Social Systems.<strong> Accepted. DOI: (https://ieeexplore.ieee.org/document/10195864)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+
 
