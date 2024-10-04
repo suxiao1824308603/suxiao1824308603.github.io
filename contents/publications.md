@@ -1,6 +1,6 @@
-- <strong>Che, H</strong>, Wang, J (2019). A two-timescale duplex neurodynamic approach to biconvex optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>30(8), 2503-2514.[[Paper]](https://ieeexplore.ieee.org/document/8594585)
+- <strong>Che, H</strong>, Wang, J (2019). A two-timescale duplex neurodynamic approach to biconvex optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>30(8), 2503-2514. Accepted.[DOI: 10.1109/TNNLS.2018.2884788](https://ieeexplore.ieee.org/document/8594585)
 
-- <strong>Che, H</strong>, Wang, J (2021). A two-timescale duplex neurodynamic approach to mixed-integer optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>32(1), 36-48.<strong>(ESI高被引论文)</strong>[[Paper]](https://ieeexplore.ieee.org/document/9023556)
+- <strong>Che, H</strong>, Wang, J (2021). A two-timescale duplex neurodynamic approach to mixed-integer optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>32(1), 36-48.<strong>(ESI高被引论文)</strong> Accepted.[DOI: 10.1109/TNNLS.2020.2973760](https://ieeexplore.ieee.org/document/9023556)
 
 - <strong>Che, H</strong>, Wang, J (2023). Bicriteria Sparse Nonnegative Matrix Factorization via Two-timescale Duplex Neurodynamic Optimization. <strong>IEEE Transactions on Neural Networks and Learning Systems,</strong>, 34(8), 4881 - 4891.
 
