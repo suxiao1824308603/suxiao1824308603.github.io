@@ -12,7 +12,7 @@
 
 [7] <strong><u>Che, H*</u></strong>. Li, C. Pan, B. Cao, Y. (2024). Diversity embedding deep optimal graph regularized non-negative matrix factorization for robust multi-view clustering.<strong> IEEE Transactions on Computational Social Systems</strong>. [[PDF]](https://ieeexplore.ieee.org/document/10706021)
 
-[8] <strong><u>Che, H</u></strong>. Pu, X. Ouyang, D. Li, B. (2024, December). Enhanced Tensorial Self-representation Subspace Learning for Incomplete Multi-view Clustering. In Proceedings of the 27th ACM International Conference on Multimedia.[[PDF]] (https://doi.org/10.1145/3664647.3681573)(CCF A类会议)
+[8] <strong><u>Che, H</u></strong>. Pu, X. Ouyang, D. Li, B. (2024, December). Enhanced Tensorial Self-representation Subspace Learning for Incomplete Multi-view Clustering. In Proceedings of the 27th ACM International Conference on Multimedia.[[PDF]] (https://doi.org/10.1145/3664647.3681573)
 
 [9] Guo W. <strong><u>Che H*</u></strong>. Leung M F.(2024). Tensor-based adaptive consensus graph learning for multi-view clustering. <strong>IEEE Transactions on Consumer Electronics</strong>,70(2), 4767 - 4784.[[PDF]](https://ieeexplore.ieee.org/abstract/document/10470448)
 
