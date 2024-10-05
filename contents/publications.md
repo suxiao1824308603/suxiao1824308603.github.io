@@ -32,7 +32,7 @@
 
 [17] Li, C. <strong><u>Che, H*</u></strong>. Leung, M. F. Liu, C. Yan, Z. (2023). Robust multi-view non-negative matrix factorization with adaptive graph and diversity constraints[J]. <strong>Information Sciences</strong>, 634, 587-607.[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523004413)
 
-[18] Yu, J. <strong><u>Che, H*</u></strong>. Leung, M. F. Liu, C. Wu, W. Yan, Z. (2024). Robust Non-negative Matrix Tri-factorization with Dual Hyper-graph regularization[J]. <strong>Big Data Mining and Analytics</strong>,.Accepted. DOI: 10.26599/BDMA.2024.9020055.
+[18] Yu, J. <strong><u>Che, H*</u></strong>. Leung, M. F. Liu, C. Wu, W. Yan, Z. (2024). Robust Non-negative Matrix Tri-factorization with Dual Hyper-graph regularization[J]. <strong>Big Data Mining and Analytics</strong>.
 
 [19] Dong, Y. <strong><u>Che, H*</u></strong>. Leung, M. Liu, C. Yan, Z. (2023).Centric graph regularized log-norm sparse non-negative matrix factorization for multi-view clustering. <strong>Signal Processing</strong>, 217, 109341.[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423004152)
 
